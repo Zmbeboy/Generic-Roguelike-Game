@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SpawnPoint
+  - Wall
+  - Rooms
+  - Door
+  - Shot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Item
+  - Player
+  - Shot
+  - Enemy
+  - Wall
+  - Intersecting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1463007799
+    locked: 0
+  - name: Wall
+    uniqueID: 2012447473
+    locked: 0
+  - name: Door
+    uniqueID: 360982079
+    locked: 0
+  - name: Playable
+    uniqueID: 3208581395
+    locked: 0
+  - name: Item
+    uniqueID: 2963606461
+    locked: 0
+  - name: DoorFix
+    uniqueID: 4260452707
+    locked: 0
+  - name: UI
+    uniqueID: 4257353875
+    locked: 0
